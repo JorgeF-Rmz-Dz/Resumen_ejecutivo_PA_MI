@@ -1,2 +1,2 @@
-# Resumen_ejecutivo_PA_MI
+# REjecutivo_PA_MI
 Referencias resumen ejecutivo PAMI
